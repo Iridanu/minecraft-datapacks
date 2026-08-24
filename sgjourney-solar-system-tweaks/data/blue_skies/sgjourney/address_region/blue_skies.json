@@ -1,5 +1,7 @@
 {
 	"name": "solar_system.sgjourney.blue_skies",
+	"point_of_origin": "sgjourney:reflection",
+	"symbols": "sgjourney:terra",
 	"symbol_prefix": 1,
 	"extragalactic_address": { "symbols": [ 17, 10, 5, 24, 28, 31, 2 ], "randomizable": true },
 	"galactic_addresses":
