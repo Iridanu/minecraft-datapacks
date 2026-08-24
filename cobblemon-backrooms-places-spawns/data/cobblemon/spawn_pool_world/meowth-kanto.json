@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "rattata-alolan-places",
-            "pokemon": "rattata alolan",
+            "id": "meowth-kanto-places",
+            "pokemon": "meowth kantonian",
             "presets": [
                 "rooms_0"
             ],

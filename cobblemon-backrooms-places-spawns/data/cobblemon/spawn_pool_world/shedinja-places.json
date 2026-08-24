@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "rattata-alolan-places",
-            "pokemon": "rattata alolan",
+            "id": "shedinja-places",
+            "pokemon": "shedinja",
             "presets": [
                 "rooms_0"
             ],

@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "rattata-alolan-places",
-            "pokemon": "rattata alolan",
+            "id": "nincada-places",
+            "pokemon": "nincada",
             "presets": [
                 "rooms_0"
             ],

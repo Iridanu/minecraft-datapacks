@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "rattata-alolan-places",
-            "pokemon": "rattata alolan",
+            "id": "whismur-places",
+            "pokemon": "whismur",
             "presets": [
                 "rooms_0"
             ],
