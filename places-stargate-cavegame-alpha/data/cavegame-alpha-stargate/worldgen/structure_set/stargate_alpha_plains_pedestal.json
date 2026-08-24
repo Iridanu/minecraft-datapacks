@@ -1,0 +1,15 @@
+{
+	"structures":
+	[
+		{
+			"structure": "cavegame-alpha-stargate:stargate/milky_way/alpha_plains/stargate_alpha_plains",
+			"weight": 1
+		}
+	],
+	"placement":
+	{
+		"salt": 1796665821,
+		"type": "sgjourney:stargate_placement",
+		"locate_offset": [6, 0, 6]
+	}
+}
