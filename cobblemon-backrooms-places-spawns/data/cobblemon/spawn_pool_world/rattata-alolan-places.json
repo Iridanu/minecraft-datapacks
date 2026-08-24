@@ -1,0 +1,75 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "rattata-alolan-4",
+            "pokemon": "rattata alolan",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        },
+		{
+            "id": "rattata-alolan-5",
+            "pokemon": "rattata alolan",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        },
+		{
+            "id": "rattata-alolan-6",
+            "pokemon": "rattata alolan",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        },
+		{
+            "id": "rattata-alolan-7",
+            "pokemon": "rattata alolan",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        }
+    ]
+}
