@@ -1,0 +1,25 @@
+{
+	"aer_bronze_chevron_incoming":
+	{
+		"subtitle": "sounds.sgjourney.chevron_engage",
+		"sounds":
+		[
+			"aergates:chevron_incoming",
+			"aergates:chevron_incoming_2",
+			"aergates:chevron_incoming_3",
+			"aergates:chevron_incoming_4",
+			"aergates:chevron_incoming_5",
+			"aergates:chevron_incoming_6",
+			"aergates:chevron_incoming_7"
+		]
+	},
+	"aer_bronze_wormhole_close":
+	{
+		"subtitle": "sounds.sgjourney.wormhole_close",
+		"sounds":
+		[
+			"sgjourney:wormhole_close_1",
+			"sgjourney:wormhole_close_2"
+		]
+	}
+}

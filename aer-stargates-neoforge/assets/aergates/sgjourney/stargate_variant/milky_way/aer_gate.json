@@ -1,0 +1,229 @@
+{
+	"texture": "aergates:textures/entity/stargate/aether_bronze/aether_bronze_stargate.png",
+	"engaged_texture": "aergates:textures/entity/stargate/aether_bronze/aether_bronze_stargate_engaged.png",
+	
+	"wormhole":
+	{
+		"event_horizon":
+		{
+			"front":
+			{
+				"texture": "aergates:textures/entity/stargate/aether_bronze/aether_bronze_horizon.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			},
+			"back":
+			{
+				"texture": "aergates:textures/entity/stargate/aether_bronze/aether_bronze_horizon.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			}
+		},
+		"event_horizon_unstable":
+		{
+			"front":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_event_horizon_unstable.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 0.75 }
+			},
+			"back":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_event_horizon_unstable.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 0.75 }
+			}
+		},
+		"strudel":
+		{
+			"front":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_vortex.png",
+				"rows": 32,
+				"columns": 5,
+				"frames": 160,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			},
+			"back":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_vortex.png",
+				"rows": 32,
+				"columns": 5,
+				"frames": 160,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			}
+		},
+		"disconnect_ticks": { "wait_ticks": 16, "fade_in_ticks": 10, "stable_ticks": 0, "fade_out_ticks": 20 },
+		"disconnect":
+		{
+			"front":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_disconnect.png",
+				"rows": 20,
+				"columns": 1,
+				"frames": 20,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			},
+			"back":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_disconnect.png",
+				"rows": 20,
+				"columns": 1,
+				"frames": 20,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			}
+		}
+		
+	},
+	"shiny_wormhole":
+	{
+		"event_horizon":
+		{
+			"front":
+			{
+				"texture": "aergates:textures/entity/stargate/aether_bronze/aether_bronze_horizon_shiny.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			},
+			"back":
+			{
+				"texture": "aergates:textures/entity/stargate/aether_bronze/aether_bronze_horizon_shiny.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			}
+		},
+		"event_horizon_unstable":
+		{
+			"front":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_event_horizon_shiny_unstable.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 0.75 }
+			},
+			"back":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_event_horizon_shiny_unstable.png",
+				"rows": 32,
+				"columns": 1,
+				"frames": 32,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 0.75 }
+			}
+		},
+		"strudel":
+		{
+			"front":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_vortex_shiny.png",
+				"rows": 32,
+				"columns": 5,
+				"frames": 160,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			},
+			"back":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_vortex_shiny.png",
+				"rows": 32,
+				"columns": 5,
+				"frames": 160,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			}
+		},
+		"disconnect_ticks": { "wait_ticks": 16, "fade_in_ticks": 10, "stable_ticks": 0, "fade_out_ticks": 20 },
+		"disconnect":
+		{
+			"front":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_disconnect.png",
+				"rows": 20,
+				"columns": 1,
+				"frames": 20,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			},
+			"back":
+			{
+				"texture": "sgjourney:textures/entity/stargate/milky_way/milky_way_disconnect.png",
+				"rows": 20,
+				"columns": 1,
+				"frames": 20,
+				"rgba": { "red": 1.0, "blue": 1.0, "green": 1.0, "alpha": 1.0 }
+			}
+		}
+	},
+	
+	"symbols":
+	{
+		"symbol_color": { "red": 0.0, "green": 0.0, "blue": 0.0, "alpha": 0.0 },
+		"encoded_symbol_color": { "red": 0.31, "green": 0.6, "blue": 0.976, "alpha": 1.0 },
+		"engaged_symbol_color": { "red": 0.31, "green": 0.6, "blue": 0.976, "alpha": 1.0 },
+		
+		"symbols_glow": true,
+		"encoded_symbols_glow": true,
+		"engaged_symbols_glow": true,
+		
+		"engage_encoded_symbols": true,
+		"engage_symbols_on_incoming": true,
+		
+		"permanent_point_of_origin": "aergates:aer_bronze",
+		"permanent_symbols": "aergates:aer_bronze"
+	},
+	
+	"stargate_model":
+	{
+		"movie_chevron_locking": false,
+		"movie_primary_chevron": false,
+		"raise_back_chevrons": false
+	},
+	
+	"chevron_engaged_sounds":
+	{
+		"default": "sgjourney:milky_way_chevron_engage"
+	},
+	
+	"chevron_incoming_sounds":
+	{
+		"default": "aergates:aer_bronze_chevron_incoming"
+	},
+	
+	"chevron_open_sounds":
+	{
+		"default": "sgjourney:milky_way_chevron_open"
+	},
+	
+	"chevron_encode_sounds":
+	{
+		"default": "sgjourney:milky_way_chevron_encode"
+	},
+	
+	"rotation_sounds":
+	{
+		"rotation_startup_sound": "sgjourney:milky_way_ring_spin_start",
+		"rotation_sound": "sgjourney:milky_way_ring_spin",
+		"rotation_stop_sound": "sgjourney:milky_way_ring_spin_stop"
+	},
+	
+	"wormhole_sounds":
+	{
+		"open": "sgjourney:milky_way_wormhole_open",
+		"idle": "sgjourney:milky_way_wormhole_idle",
+		"close": "aergates:aer_bronze_wormhole_close"
+	},
+	
+	"fail_sounds":
+	{
+		"default": "sgjourney:milky_way_dial_fail"
+	}
+}

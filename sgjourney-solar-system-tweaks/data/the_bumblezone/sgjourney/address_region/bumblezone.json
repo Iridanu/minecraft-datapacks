@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgjourney.bumblezone",
+	"point_of_origin": "sgjourney:aurum",
+	"symbols": "sgjourney:universal",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 1, 17, 20, 5, 37, 10, 6 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 11, 22, 3, 9, 18, 24 ], "randomizable": true } }
+	}
+}

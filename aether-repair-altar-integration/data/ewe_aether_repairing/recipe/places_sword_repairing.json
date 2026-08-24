@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_sword_repair",
+	"ingredient": { "item": "places:scrapwood_tools_sword" },
+	"repairTime": 100
+}

@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_helmet_repair",
+	"ingredient": { "item": "places:cardboard_armor_armor_helmet" },
+	"repairTime": 100
+}

@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgjourney.twilight_forest",
+	"point_of_origin": "sgjourney:triforce",
+	"symbols": "sgjourney:terra",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 4, 29, 7, 9, 32, 23, 17 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 28, 13, 36, 7, 22, 35 ], "randomizable": true } }
+	}
+}

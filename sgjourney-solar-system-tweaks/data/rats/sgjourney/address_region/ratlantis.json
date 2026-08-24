@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgjourney.ratlantis",
+	"point_of_origin": "sgjourney:wheel",
+	"symbols": "sgjourney:terra",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 18, 22, 31, 13, 19, 6, 15 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 29, 18, 12, 7, 10, 30 ], "randomizable": true } }
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgjourney.aether",
+	"point_of_origin": "sgjourney:triforce",
+	"symbols": "sgjourney:terra",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 22, 20, 4, 13, 34, 30, 19 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 15, 18, 4, 2, 27, 37 ], "randomizable": true } }
+	}
+}

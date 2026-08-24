@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_chestplate_repair",
+	"ingredient": { "item": "places:cardboard_armor_armor_chestplate" },
+	"repairTime": 100
+}

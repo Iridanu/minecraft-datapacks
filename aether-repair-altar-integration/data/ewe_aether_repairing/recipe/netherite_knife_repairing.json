@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_knife_repair",
+	"ingredient": { "item": "farmersdelight:netherite_knife" },
+	"repairTime": 2000
+}

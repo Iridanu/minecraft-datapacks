@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_helmet_repair",
+	"ingredient": { "item": "sgjourney:naquadah_helmet" },
+	"repairTime": 2700
+}

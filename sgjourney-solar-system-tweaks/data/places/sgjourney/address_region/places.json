@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgjourney.places",
+	"point_of_origin": "sgjourney:universal",
+	"symbols": "sgjourney:universal",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 8, 31, 20, 34, 9, 26, 28 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 15, 11, 12, 9, 31, 14 ], "randomizable": true } }
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_axe_repair",
+	"ingredient": { "item": "sgjourney:naquadah_axe" },
+	"repairTime": 2700
+}

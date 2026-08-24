@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgjourney.otherside",
+	"point_of_origin": "sgjourney:triforce",
+	"symbols": "sgjourney:terra",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 35, 7, 19, 11, 26, 22, 3 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 10, 17, 4, 23, 21, 9 ], "randomizable": true } }
+	}
+}

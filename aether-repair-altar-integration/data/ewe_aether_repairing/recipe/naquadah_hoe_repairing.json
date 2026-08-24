@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_hoe_repair",
+	"ingredient": { "item": "sgjourney:naquadah_hoe" },
+	"repairTime": 2700
+}

@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_knife_repair",
+	"ingredient": { "item": "farmersdelight:diamond_knife" },
+	"repairTime": 1500
+}

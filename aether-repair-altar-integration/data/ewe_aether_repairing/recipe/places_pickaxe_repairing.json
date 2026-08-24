@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_pickaxe_repair",
+	"ingredient": { "item": "places:scrapwood_tools_pickaxe" },
+	"repairTime": 100
+}

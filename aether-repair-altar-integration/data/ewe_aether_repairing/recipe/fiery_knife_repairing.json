@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_knife_repair",
+	"ingredient": { "item": "twilightdelight:fiery_knife" },
+	"repairTime": 2000
+}

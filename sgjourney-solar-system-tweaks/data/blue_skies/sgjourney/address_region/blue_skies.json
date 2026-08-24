@@ -1,0 +1,9 @@
+{
+	"name": "solar_system.sgjourney.blue_skies",
+	"symbol_prefix": 1,
+	"extragalactic_address": { "symbols": [ 17, 10, 5, 24, 28, 31, 2 ], "randomizable": true },
+	"galactic_addresses":
+	{
+		"sgjourney:milky_way": { "address": { "symbols": [ 6, 21, 19, 12, 8, 22 ], "randomizable": true } }
+	}
+}

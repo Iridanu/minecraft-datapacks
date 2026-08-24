@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_fishing_rod_repair",
+	"ingredient": { "item": "aquaculture:iron_fishing_rod" },
+	"repairTime": 750
+}

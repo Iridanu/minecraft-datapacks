@@ -1,0 +1,24 @@
+{
+	"structures":
+	[
+		{
+			"structure": "buried_common:stargate/milky_way/buried/stargate_buried",
+			"weight": 1
+		},
+		{
+			"structure": "buried_common:stargate/milky_way/buried/stargate_buried_badlands",
+			"weight": 1
+		},
+		{
+			"structure": "buried_common:stargate/milky_way/buried/stargate_buried_desert",
+			"weight": 1
+		}
+	],
+	"placement":
+	{
+		"salt": 1275447679,
+		"spacing": 80,
+		"separation": 64,
+		"type": "minecraft:random_spread"
+	}
+}

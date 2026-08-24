@@ -1,0 +1,6 @@
+{ 
+  "pack": {
+    "pack_format": 34,
+    "description": "Replaces the vanilla biomes with biome tags, and adds extra forest / plains biomes from other mods."
+  }
+}

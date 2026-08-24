@@ -1,0 +1,6 @@
+{
+	"type": "aether:repairing",
+	"group": "altar_sword_repair",
+	"ingredient": { "item": "sgjourney:naquadah_sword" },
+	"repairTime": 2700
+}
