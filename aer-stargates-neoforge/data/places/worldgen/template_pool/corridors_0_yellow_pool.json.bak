@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"name": "places:corridors_0_yellow_pool",
+	"fallback": "minecraft:empty",
+	"elements":
+	[
+		{
+			"weight": 1,
+			"element":
+			{
+				"element_type": "minecraft:single_pool_element",
+				"location": "aergates:places_yellow_stargate_room",
+				"projection": "rigid",
+				"processors":
+				{
+					"processors": []
+				}
+			}
+		}
+	]
+}
