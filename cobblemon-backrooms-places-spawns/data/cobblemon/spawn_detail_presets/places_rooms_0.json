@@ -1,0 +1,9 @@
+{
+	"condition": {
+		"neededBaseBlocks": [
+			"places:moist_carpet",
+			"places:moist_carpet_puddle",
+			"places:moldy_carpet"
+		]
+	}
+}

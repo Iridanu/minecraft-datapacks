@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values":
+	[
+		"places:rooms_0_corridors",
+		"places:rooms_0_empty",
+		"places:rooms_0_huge",
+		"places:rooms_0_pillars",
+		"places:rooms_0_white",
+		"places:rooms_0_white_cold",
+		"places:rooms_0_white_light"
+	]
+}
