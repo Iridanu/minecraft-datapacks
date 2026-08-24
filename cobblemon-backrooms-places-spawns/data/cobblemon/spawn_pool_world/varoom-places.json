@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "varoom-places",
+            "pokemon": "varoom",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        }
+    ]
+}
