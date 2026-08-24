@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "gastly-places",
-            "pokemon": "gastly",
+            "id": "meowth-places",
+            "pokemon": "meowth kantonian",
             "presets": [
                 "rooms_0"
             ],

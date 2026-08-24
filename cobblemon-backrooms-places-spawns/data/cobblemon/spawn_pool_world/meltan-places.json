@@ -11,7 +11,7 @@
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
-            "bucket": "rare",
+            "bucket": "ultrarare",
             "level": "27-60",
             "weight": 1,
             "condition": {

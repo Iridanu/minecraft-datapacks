@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "grimer-kanto-places",
-            "pokemon": "grimer kantonian",
+            "id": "gengar-places",
+            "pokemon": "gengar",
             "presets": [
                 "rooms_0"
             ],

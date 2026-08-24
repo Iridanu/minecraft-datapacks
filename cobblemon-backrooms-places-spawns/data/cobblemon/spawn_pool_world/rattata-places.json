@@ -1,0 +1,41 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "rattata-alolan-places",
+            "pokemon": "rattata alolan",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        },
+		{
+            "id": "rattata-kantonian-places",
+            "pokemon": "rattata kantonian",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "27-60",
+            "weight": 9,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        }
+    ]
+}

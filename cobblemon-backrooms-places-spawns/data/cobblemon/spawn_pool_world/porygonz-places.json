@@ -4,16 +4,16 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "rattata-alolan-places",
-            "pokemon": "rattata alolan",
+            "id": "porygonz-places",
+            "pokemon": "porygonz",
             "presets": [
                 "rooms_0"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
-            "bucket": "rare",
+            "bucket": "ultrarare",
             "level": "27-60",
-            "weight": 10,
+            "weight": 1,
             "condition": {
                 "biomes": [
                     "#places-spawns:is_rooms_0"
