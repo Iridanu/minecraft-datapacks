@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "rattata-1",
+            "pokemon": "rattata",
+            "presets": [
+                "rooms_0"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "uncommon",
+            "level": "27-60",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#places-spawns:is_rooms_0"
+                ]
+            }
+        }
+    ]
+}
